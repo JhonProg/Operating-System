@@ -9,8 +9,8 @@ This application is a program that simulates the working of a O.S. when run  sys
 
 ##Author
 
-*Students of Distrital Universidad Francisco Jose of Caldas
+*Students of Distrital Universidad Francisco Jose of Caldas.
 *Tecnology in systematization of data.
-*Operating systems
-*Bogota - Colombia
+*Operating systems.
+*Bogota - Colombia.
 
