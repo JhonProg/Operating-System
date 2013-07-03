@@ -1,10 +1,15 @@
-SO
-==
+Simulator the process and operating system.
+====
 
-Simulador de SO
 
-##Acerca de.
+##About
 
-##Autor(es)
+This application is a program that simulates the working of a O.S. when run  system is process.
 
-##Licencia
+##Author
+
+Students of Distrital Universidad Francisco Jose of Caldas
+Tecnology in systematization of data.
+Operating systems
+Bogota - Colombia
+
